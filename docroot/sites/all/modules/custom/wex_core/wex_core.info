@@ -1,0 +1,5 @@
+name = WEX CORE
+description = General Misc WEX Stuff
+core = 7.x
+
+package = WEX Custom
